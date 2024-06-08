@@ -1,0 +1,11 @@
+{
+    "name":"IPL DUNIYA",
+    "version":"1.0",
+    "description":"Best chrome extension for tracking all the ipl matches.",
+    "manifest_version":3,
+    "author":"Kartik Ghorai",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"IPL DUNIYA"
+    }
+}
